@@ -1,0 +1,62 @@
+[
+    {
+        "_id": "6369418386b08b6b4c9bfa20",
+        "name": "Pizza",
+        "price": 40,
+        "rating": 5,
+        "description": "If you want to learn about how to make pizza,  You'll get cool pizza making techniques, delicious recipes, and you can even buy fantastic pizza ovens so you can keep up with new products for all your pizza parties. When you have the time... and you're not hankering for a Flavored Crust®. The Reddit world also has a space for pizza. Surprised? This community is for true pizza lovers only and includes plenty of pizza recipes, videos, and even user attempts at recreating their favorite pizzas Some say Chicago has the best pizza. They do have deep dish pizza. But, on that note, so do we. Pizza Lover Chicago follows Felicia Braude and her obsession with pizza. This pizza blog is all about her experience with pizza and her adventures tasting new styles and flavors without hesitation.",
+        "view": 400,
+        "image": "https://img.freepik.com/free-photo/front-view-delicious-cheese-pizza-consists-olives-pepper-tomatoes-dark-surface_179666-34391.jpg?size=626&ext=jpg&uid=R50409371&ga=GA1.2.1471171554.1652352605&semt=sph",
+        "email": "hermanbuckley@valreda.com"
+    },
+    {
+        "_id": "63694183f466db0341b00e4b",
+        "name": "Burgar",
+        "price": 35,
+        "rating": 5,
+        "description": "On a burger, some chopped chiles cut through the heavy meats and cheeses. They offer that perfect touch of tanginess to take your plain cheeseburger to another level. Plus, spicy food is known to enhance your metabolism. So whatever chile pepper you get (jalapeños, green chiles, pepperoncinis) it will be good for your health and your taste buds. Lately, you can hardly find a burger that doesn’t have bacon on it. And there’s a reason for that!  Add to the savory goodness of your burger with some thick, smokey, salty strips of bacon. It gives your burger texture and intense flavor, and makes any burger taste better.",
+        "view": 455,
+        "image": "https://img.freepik.com/free-photo/front-view-tasty-meat-burger-with-cheese-salad-dark-background_140725-89597.jpg?size=626&ext=jpg&uid=R50409371&ga=GA1.2.1471171554.1652352605&semt=sph",
+        "email": "hermanbuckley@valreda.com"
+    },
+    {
+        "_id": "636941837c349a55287f7b32",
+        "name": "Chiken Fry",
+        "price": 120,
+        "rating": 5,
+        "description": "is a popular chicken dish made with a unique and special vepudu masala. It is a finger-licking dry chicken recipe made with authentic Andhra spices. This dish is generally prepared during special occasions or festivals. Crispy and tender, you won’t regret making this dish at home. Chicken Fry, the chicken is cooked on a medium to low flame to extract its best flavours. Also, the blend of Andhra masala, also known as vepudu masala, is the magic ingredient that binds everything together",
+        "view": 334,
+        "image": "https://img.freepik.com/free-photo/crispy-fried-chicken-plate-with-salad-carrot_1150-20212.jpg?size=626&ext=jpg&uid=R50409371&ga=GA1.2.1471171554.1652352605&semt=sph",
+        "email": "hermanbuckley@valreda.com"
+    },
+    {
+        "_id": "63694183387ab3ed6be1f42d",
+        "name": "Chiken Biryani",
+        "price": 140,
+        "rating": 5,
+        "description": "While we are more than aware of the more famous mutton variant Kacchi Biryani, the Chicken Biryani variant is the second most popular variant in the Biryani family. Because, Chicken goes well with almost every rice dish! Biryani is no exception. Although the overall process is quite different from the kacchi variant. We will break down how you can cook for your family at your home. On a pan, cook sliced onions until they become a light brown shade. Add the marinated chicken with the whole spices. Cook for five minutes, or until they become a pale shade. Lower the flame then and keep cooking the chicken until it becomes soft and cooked through properly. Mix both the rice and the chicken very well in an even manner in one layer. In a separate pot, pour 6 cups of water, and pour half or 1 teaspoon of salt. Stir the water and once it’s salty, pour 4 cups of water across the side of the cooker. Pour the rest of the water on top of the rice.",
+        "view": 455,
+        "image": "https://img.freepik.com/free-photo/soya-chunk-pulav-soy-vadi-pilaf_466689-72613.jpg?size=626&ext=jpg&uid=R50409371&ga=GA1.2.1471171554.1652352605&semt=sph",
+        "email": "hermanbuckley@valreda.com"
+    },
+    {
+        "_id": "63694183d6ab16e0246a8846",
+        "name": "Beef Biryani",
+        "price": 145,
+        "rating": 5,
+        "description": "Beef Biryani is a meat and spices pilaf .places which would not survive any health inspection, but have managed to produce the most delicious of biryanis for decades. From the famous Student Biryani to newer (and cleaner) places like Biryani Centre it is definitely a national favourite. A Beef Biryani is only fun to eat when a gentle press breaks that flavorful meat. Pressure cooking the meat is a great way to both imbue it with flavor and save yourself time. That said I made this biryani stove top for many years by simmering the meat for 45-55 minutes I use the Instant Pot for the meat portion and not for the rice yet for one big reason. The first is that I find that with different brands of basmati the rice tends to cook in different amounts of time and when I share a time I would like to be perfect. Nothing worse than making a beautiful masala and then having your rice mushy.",
+        "view": 555,
+        "image": "https://img.freepik.com/free-photo/side-view-pilaf-with-stewed-beef-meat-plate_141793-5057.jpg?size=626&ext=jpg&uid=R50409371&ga=GA1.2.1471171554.1652352605&semt=sph",
+        "email": "hermanbuckley@valreda.com"
+    },
+    {
+        "_id": "63694183cf0aad620120faa6",
+        "name": "Samosa",
+        "price": 15,
+        "rating": 5,
+        "description": "Samosa is a famous The traditional aloo samosa recipe requires no introduction and usually served with red tamarind or green mint chutney. It is usually stuffed with spicy potatoes that are just mixed or sautéed with some easily available Indian spices. It takes only a few minutes to make samosa at home if you follow proper cooking steps required for making this delicious snack.  It takes just a few minutes to prepare for samosa at home. If you feel like cooking something for your family, you may experiment in your kitchen by trying this recipe. You may even add peas into the stuffing to add more taste to a simple aloo samosa",
+        "view": 600,
+        "image": "https://img.freepik.com/free-photo/samosas-with-chicken-fillet-green-herbs_2829-10800.jpg?size=626&ext=jpg&uid=R50409371&ga=GA1.2.1471171554.1652352605&semt=sph",
+        "email": "hermanbuckley@valreda.com"
+    }
+]
