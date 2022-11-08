@@ -1,6 +1,5 @@
 [
     {
-        "_id": "6369418386b08b6b4c9bfa20",
         "name": "Pizza",
         "price": 40,
         "rating": 5,
@@ -10,7 +9,6 @@
         "email": "hermanbuckley@valreda.com"
     },
     {
-        "_id": "63694183f466db0341b00e4b",
         "name": "Burgar",
         "price": 35,
         "rating": 5,
@@ -20,7 +18,6 @@
         "email": "hermanbuckley@valreda.com"
     },
     {
-        "_id": "636941837c349a55287f7b32",
         "name": "Chiken Fry",
         "price": 120,
         "rating": 5,
@@ -30,7 +27,6 @@
         "email": "hermanbuckley@valreda.com"
     },
     {
-        "_id": "63694183387ab3ed6be1f42d",
         "name": "Chiken Biryani",
         "price": 140,
         "rating": 5,
@@ -40,7 +36,6 @@
         "email": "hermanbuckley@valreda.com"
     },
     {
-        "_id": "63694183d6ab16e0246a8846",
         "name": "Beef Biryani",
         "price": 145,
         "rating": 5,
@@ -50,7 +45,6 @@
         "email": "hermanbuckley@valreda.com"
     },
     {
-        "_id": "63694183cf0aad620120faa6",
         "name": "Samosa",
         "price": 15,
         "rating": 5,
